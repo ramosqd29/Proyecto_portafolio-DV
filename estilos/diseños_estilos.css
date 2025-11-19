@@ -26,6 +26,8 @@ ul {
     list-style-type: none; /* Elimina los puntos por defecto */
     padding-left: 0;
     margin: 20px;
+    background-color: #fff;
+    border-radius: 10px;
 }
 
 ul li {
